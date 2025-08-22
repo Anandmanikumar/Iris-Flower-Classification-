@@ -42,7 +42,7 @@ This project aims to automate the process using supervised machine learning mode
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/AnandmaniKumar/Iris-Flower-Classification.git
-cd iris-flower-classification
+cd Iris_Flower_classification 
 
 
 pip install -r requirements.txt

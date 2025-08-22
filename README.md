@@ -44,9 +44,11 @@ This project aims to automate the process using supervised machine learning mode
 git clone https://github.com/AnandmaniKumar/Iris-Flower-Classification.git
 cd Iris_Flower_classification 
 
+##2. install dependencies 
 
 pip install -r requirements.txt
-
-
+ ## 3.  Run the program 
+python iris_classification.py
+or
 jupyter notebook iris_classification.ipynb
 
